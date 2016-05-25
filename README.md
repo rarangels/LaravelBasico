@@ -1,18 +1,28 @@
 # Laravel Básico (PHP Framework) 5.2
 Este proyecto, contiene una instalación básica de laravel (cuya documentación oficial la pueden observar en [Laravel website](http://laravel.com/docs)) con algunos paquetes básicos pre instalados.
 
+## Tabla de Contenido
+
 ## Paquete Tenantable
-Este paquete habilita multitenencia en conexiones de bases de datos sobre la ejecución sin tener que acceder a la base de datos con ::connection('name') en cada llamada a las bases de datos. La versión utilizada en el required es "leemason/tenantable": "^1.1" y para mayor detalle ver [Web del Creador](https://github.com/leemason/tenantable).
+Este paquete habilita multitenencia en conexiones de bases de datos sobre la ejecución sin tener que acceder a la base de datos con ::connection('name') en cada llamada a las bases de datos. La versión utilizada en el required es
+> "leemason/tenantable": "^1.1"
+Para mayor detalle ver [Web del Creador](https://github.com/leemason/tenantable).
 
 ## Paquete Entrust
-Este paquete permite la utilización de permisos y roles para los diferentes tipos de usuario que visitan nuestra plataforma. La versión utilizada en el required es "zizaco/entrust": "5.2.x-dev" y para mayor detalle ver [Web del Creador](https://github.com/Zizaco/entrust).
+Este paquete permite la utilización de permisos y roles para los diferentes tipos de usuario que visitan nuestra plataforma. La versión utilizada en el required es
+> "zizaco/entrust": "5.2.x-dev"
+Para mayor detalle ver [Web del Creador](https://github.com/Zizaco/entrust).
 
 ## Paquete laravel-dompdf
 Este paquete permite la creación, edición y visualización de documentos de texto tipo PDF a partir de HTML o creación manual 
-La versión utilizada en el required es "barryvdh/laravel-dompdf": "0.6.*" y para mayor detalle ver [Web del Creador](https://github.com/barryvdh/laravel-dompdf).
+La versión utilizada en el required es
+> "barryvdh/laravel-dompdf": "0.6.*" 
+Para mayor detalle ver [Web del Creador](https://github.com/barryvdh/laravel-dompdf).
 
 ## Paquete LaravelCollective
-Este paquete permite minimizar el código HTML que se utiliza para la creación de formularios. La versión utilizada en el required es "laravelcollective/html": "5.2.*" y para mayor detalle ver [Web del Creador](https://laravelcollective.com/docs/5.2/html).
+Este paquete permite minimizar el código HTML que se utiliza para la creación de formularios. La versión utilizada en el required es
+> "laravelcollective/html": "5.2.*"
+Para mayor detalle ver [Web del Creador](https://laravelcollective.com/docs/5.2/html).
 
 ## Licencia
 
