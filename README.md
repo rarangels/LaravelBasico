@@ -5,9 +5,14 @@ Este proyecto, contiene una instalación básica de laravel (cuya documentación
 1. Paquetes
   1. [Tenantable](https://github.com/rarangels/LaravelBasico#paquete-tenantable).
   2. [Entrust](https://github.com/rarangels/LaravelBasico#paquete-entrust).
-  3. [laravel-dompdf](https://github.com/rarangels/LaravelBasico#paquete-laravel-dompdf).
+  3. [Laravel-dompdf](https://github.com/rarangels/LaravelBasico#paquete-laravel-dompdf).
   4. [LaravelCollective](https://github.com/rarangels/LaravelBasico#paquete-laravelcollective).
 2. [Licencia](https://github.com/rarangels/LaravelBasico#licencia).
+3. Datos de Contacto
+  - [Facebook](https://www.facebook.com/RafaelARangelS/).
+  - [Linkedin](https://www.linkedin.com/in/rarangels).
+  - [Página Web](http://www.rafaelrangels.com/).
+  - [Twitter](https://twitter.com/rarangels).
 
 
 ## Paquete Tenantable
@@ -24,7 +29,7 @@ Este paquete permite la utilización de permisos y roles para los diferentes tip
 
 Para mayor detalle ver [Web del Creador](https://github.com/Zizaco/entrust).
 
-## Paquete laravel-dompdf
+## Paquete Laravel-dompdf
 Este paquete permite la creación, edición y visualización de documentos de texto tipo PDF a partir de HTML o creación manual 
 La versión utilizada en el required es
 
